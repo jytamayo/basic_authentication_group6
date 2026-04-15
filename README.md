@@ -3,7 +3,7 @@
 A basic authentication system featuring registration, login, and a protected dashboard.
 
 ## Tech Stack
-* **Backend:** PHP 8.x
+* **Backend:** PHP
 * **Database:** PostgreSQL
 * **Styling:** Custom CSS
 
