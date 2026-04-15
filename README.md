@@ -3,10 +3,9 @@
 A basic authentication system featuring registration, login, and a protected dashboard.
 
 ## Tech Stack
-| - | - |
-| Backend | PHP |
-| Database | PostgreSQL |
-| Styling | Custom CSS |
+* **Backend:** PHP 8.x
+* **Database:** PostgreSQL
+* **Styling:** Custom CSS
 
 ## Setup
 1. Create a PostgreSQL table using the query in `database.sql`.
